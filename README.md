@@ -12,7 +12,7 @@
 
 ## tech
 
-python • css • rust • html • c#
+python • css • rust • html • c++
 
 ---
 
