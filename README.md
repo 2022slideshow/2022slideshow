@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">hey, i'm 2022slideshow 👋</h1>
 
-<!--
-**2022slideshow/2022slideshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  building things, learning fast, keeping it simple.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://haunt.gg/lick">haunt.gg/lick</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## tech
+
+python • css • rust • html • c#
+
+---
+
+## stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2022slideshow&show_icons=true&hide_border=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2022slideshow&layout=compact&hide_border=true&theme=transparent" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2022slideshow&theme=transparent&hide_border=true" />
+</p>
