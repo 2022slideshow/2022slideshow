@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https:/frail.lol/huh">frail.lol/huh</a>
+  <a href="https://frail.lol/huh">frail.lol/huh</a>
 </p>
 
 ---
