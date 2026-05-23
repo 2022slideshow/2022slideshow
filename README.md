@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://haunt.gg/lick">haunt.gg/lick</a>
+  <a href="https://haunt.gg/lick">frail.lol/huh</a>
 </p>
 
 ---
